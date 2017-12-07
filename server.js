@@ -1,0 +1,1 @@
+// to run, go to bash and paste this => ./node_modules/.bin/babel-node server.js
