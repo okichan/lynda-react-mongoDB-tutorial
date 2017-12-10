@@ -5,6 +5,7 @@
   "author": "Tomomi <madeinwatashi@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.16.2",
     "mongodb": "^2.2.33",
     "react": "^15.6.2",
